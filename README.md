@@ -1,3 +1,5 @@
+[![author](https://img.shields.io/badge/author-gabrielduarte-red.svg)](https://www.linkedin.com/in/gabriel-duarte-671074146/)
+
 # Apple_Stock_History_Analysis
 
 Apple is one of the largest companies in the world in the field of electronics and software. It was founded in 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne.
