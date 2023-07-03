@@ -19,4 +19,4 @@ This analysis aims to highlight key milestones in the company's history through 
 
 
 # Link to the article of this project on Medium:
---- Apple Stock History Analysis. => 
+--- Apple Stock History Analysis => 
